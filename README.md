@@ -43,7 +43,8 @@
 ---
 
 ## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arvvvi)](https://github.com/Arvvvii/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arvvvii)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
