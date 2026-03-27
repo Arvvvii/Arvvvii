@@ -44,7 +44,7 @@
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arvvvii)](https://github.com/anuraghazra/github-readme-stats)
+![Arvi's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arvvvii&show_icons=true&theme=tokyonight)
 
 ---
 
